@@ -5,7 +5,7 @@
  * a binary tree
  *
  * @tree: a pointer to the node to measure the depth
- * 
+ *
  * Return: If tree is NULL, your function must return 0
 */
 
